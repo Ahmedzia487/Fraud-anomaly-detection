@@ -1,0 +1,2 @@
+Model,Threshold,Test Records,Actual Suspicious,Average Precision,PR-AUC,Precision@50,Alerts,True Positives,False Alarms,Missed Fraud,Total Assumed Cost (PKR),Estimated Weekly Alerts,Estimated Weekly Review Hours
+One-Class SVM,-0.2215915079576911,750,12,0.43185282914397016,0.42863734747818294,0.1,52,5,47,7,198500,13.358921621848934,1.113243468487411
